@@ -1,0 +1,9 @@
+/Users/lugina/Projects/godemon/.idea/.gitignore
+/Users/lugina/Projects/godemon/.idea/dataSources.local.xml
+/Users/lugina/Projects/godemon/.idea/godemon.iml
+/Users/lugina/Projects/godemon/.idea/misc.xml
+/Users/lugina/Projects/godemon/.idea/modules.xml
+/Users/lugina/Projects/godemon/.idea/workspace.xml
+/Users/lugina/Projects/godemon/CHANGELOG.md
+/Users/lugina/Projects/godemon/go.mod
+/Users/lugina/Projects/godemon/godemon.go
